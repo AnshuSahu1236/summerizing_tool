@@ -1,0 +1,31 @@
+.deactive{
+    background-color: #d8d8d8;
+    padding: 3px 16px;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 20px;margin: 2px;
+}
+
+.deactive:hover{
+    background-color: #bcbcbc;
+}
+
+.active{
+    background-color: #fb923c;
+    padding: 3px 16px;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 20px;
+    margin: 2px;
+}
+
+.active:hover{
+    background-color: #ff7300;
+}
+
+textarea::selection{
+    background-color: #fb923c;
+    color: white;
+}
