@@ -11,7 +11,7 @@ function Navbar() {
             <span className='text-[#eb7f05] font-serif text-3xl font-semibold px-5' >Summarizing Tool</span>
         </Link>
 
-        <Link to='https://github.com/shreyansh-35/summarizingtool' target='_blank'>
+        <Link to='https://github.com/AnshuSahu1236/summerizing_tool' target='_blank'>
             <button className='rounded-full bg-black text-[white] text-base tracking-wide px-6 py-2'> GITHUB</button>
         </Link>
         
